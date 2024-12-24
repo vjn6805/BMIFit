@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMIFit</string>
+    <string name="weight">Enter your Weight</string>
+    <string name="heightft">Enter your Height (in FT.)</string>
+    <string name="heightin">Enter your Height (in IN.)</string>
+    <string name="btn1">Calculate BMI</string>
+
+</resources>
